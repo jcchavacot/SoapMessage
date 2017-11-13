@@ -1,3 +1,6 @@
 Archivo con un mensaje nuevo
 Nueva linea agregada
 Testing git client
+
+Mas adelante algo nuevo
+con algo mas de detalle
