@@ -3,4 +3,8 @@ Nueva linea agregada
 Testing git client
 
 Mas adelante algo nuevo
-con algo mas de detalle
+con algo mas de detalles
+
+Desarrollo en la rama dev
+para realizar un pull request
+mas adelante
