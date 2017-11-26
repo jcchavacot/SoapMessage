@@ -2,22 +2,4 @@ Archivo con un mensaje nuevo
 Nueva linea agregada
 Testing git client
 
-Mas adelante algo nuevo
-con algo mas de detalles
-
-Desarrollo en la rama dev
-para realizar un pull request
-mas adelante
-
-agregando nueva linea al final de la linea existente
-
-nueva linea para probar el cliente
-
-nueva linea esperando para crear el pull request
-texto en qa
-texto en master
-texto qa
-texto master 2
-nuevo texto en qa
-nuevo texto para realizar una prueba ed gitlens
-nueva linea
+Testeando ssh key publica y privada para acceder a git hub.
