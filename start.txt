@@ -9,7 +9,7 @@ Desarrollo en la rama dev
 para realizar un pull request
 mas adelante
 
-agregando nueva linea
+agregando nueva linea al final de la linea existente
 
 nueva linea para probar el cliente
 
