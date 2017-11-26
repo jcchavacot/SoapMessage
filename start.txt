@@ -10,3 +10,5 @@ mas lineas para jugar con git+ssh+visual studio code
 linea local en master
 
 linea nueva en la rama dev
+
+nueva linea en dev local para agregar al dev remoto
